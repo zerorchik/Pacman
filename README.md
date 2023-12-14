@@ -16,3 +16,8 @@
 
 Завдання взято з джерела:
 [http://inst.eecs.berkeley.edu/~cs188](url)
+
+## Отримані результати:
+
+![image](https://github.com/zerorchik/Pacman/assets/103893849/25378b26-3d4c-4d8c-9672-f474e14fc16b)
+![image](https://github.com/zerorchik/Pacman/assets/103893849/d6e1560d-ee73-46dd-acae-9ae58c7903fb)
